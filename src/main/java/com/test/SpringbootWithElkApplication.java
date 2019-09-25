@@ -1,4 +1,4 @@
-package com.test.springbootwithelk;
+package com.test;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
